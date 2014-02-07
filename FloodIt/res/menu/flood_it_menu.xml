@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/high_scores"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="@string/high_scores"/>
+    <item android:id="@+id/contribute" android:title="@string/contribute" android:orderInCategory="2"></item>
+    <item android:id="@+id/about" android:title="@string/about" android:orderInCategory="3"></item>
+
+</menu>

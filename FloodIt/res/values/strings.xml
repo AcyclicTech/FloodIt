@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FloodIt</string>
+    <string name="high_scores">High Scores</string>
+    <string name="contribute">Contribute</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="contribute_message">This application is provided free with no ads, please consider contributing to keep it ad-free.</string>
+    <string name="about">About...</string>
+    <string name="reset">Reset High Scores</string>
+
+</resources>
